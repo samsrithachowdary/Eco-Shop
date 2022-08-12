@@ -12,7 +12,7 @@ Stripe is an API suite that powers online payment processing and commerce soluti
 <img width="960" alt="2022-08-12 (1)" src="https://user-images.githubusercontent.com/92267617/184381695-aebaeec7-2448-4d94-adc3-d20cc0219120.png">
 
 
-Below you can find the working and a virtual demo of my app actually looks like.
+Below you can find the working and a virtual demo of how my app actually looks like.
 
 
 
