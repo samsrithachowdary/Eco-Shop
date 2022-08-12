@@ -10,3 +10,8 @@ Firebase acts as a database for this project stores various informations such as
 Stripe is an API suite that powers online payment processing and commerce solutions for internet businesses of all sizes. Accept payments and scale faster than you were accepting payments for your website.
 
 <img width="960" alt="2022-08-12 (1)" src="https://user-images.githubusercontent.com/92267617/184381695-aebaeec7-2448-4d94-adc3-d20cc0219120.png">
+
+
+Below you can find the working and a virtual demo of my app actually looks like.
+[APP DEMO.webm](https://user-images.githubusercontent.com/92267617/184385784-b226677b-92f6-4bb5-a789-733bc7c1c2f7.webm)
+
